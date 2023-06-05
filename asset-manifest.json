@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inotebookpro/static/css/main.11f1e88b.css",
+    "main.js": "/inotebookpro/static/js/main.67797b04.js",
+    "static/js/787.e1e25ce8.chunk.js": "/inotebookpro/static/js/787.e1e25ce8.chunk.js",
+    "index.html": "/inotebookpro/index.html",
+    "main.11f1e88b.css.map": "/inotebookpro/static/css/main.11f1e88b.css.map",
+    "main.67797b04.js.map": "/inotebookpro/static/js/main.67797b04.js.map",
+    "787.e1e25ce8.chunk.js.map": "/inotebookpro/static/js/787.e1e25ce8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f1e88b.css",
+    "static/js/main.67797b04.js"
+  ]
+}
